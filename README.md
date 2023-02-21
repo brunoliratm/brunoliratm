@@ -35,8 +35,8 @@
 
    ### :hammer_and_wrench: Languages :
 <div align="left">
-  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg>
-  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg>
   
   
 </div>
