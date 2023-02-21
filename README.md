@@ -16,7 +16,8 @@
   <img src=https://user-images.githubusercontent.com/114788642/220455203-84a9b48f-bcf3-4497-bc3e-b2bbcd46baaf.png align="center">
   <img src=https://user-images.githubusercontent.com/114788642/220455906-a23e0df0-1c36-4c6f-83c4-b59c4f2ed2cc.png align="center">
 </div>
-
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
