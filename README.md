@@ -1,4 +1,6 @@
-### Hi there 👋</br>
+<div>
+  ### Hi there 👋</br>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" align="center"/>
 </div>
@@ -8,9 +10,11 @@
   
 </br>
 </br>
+---
 ### :man_technologist: About Me :
 ### I’m currently learning Rust, C and C++
 </br>
+---
 <div align="center">
   <h3 align="center">TOOLS</h3>
   <img src=https://user-images.githubusercontent.com/114788642/220455203-84a9b48f-bcf3-4497-bc3e-b2bbcd46baaf.png align="center">
