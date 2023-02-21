@@ -1,10 +1,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" align="center"/>
 </div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=brunoliratm&style=flat-square&color=blue" alt="" align="center"/>
+<div>
+  
 </br>
 </br>
-### Hi there 👋
+
+### Hi there 👋</br>
 ### I’m currently learning Rust, C and C++
 </br>
 <div align="center">
