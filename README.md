@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p align="center">
+<div align="center">
   <h3 align="center">Tools</h3>
   <img src=https://user-images.githubusercontent.com/114788642/220455203-84a9b48f-bcf3-4497-bc3e-b2bbcd46baaf.png align="center">
 
-</p>
+</div>
 
 
 
