@@ -25,14 +25,25 @@
 ---
 
 
-   ### :hammer_and_wrench: Languages and Tools :
+   ### :hammer_and_wrench: Tools :
 <div align="left">
   <img src=https://user-images.githubusercontent.com/114788642/220455203-84a9b48f-bcf3-4497-bc3e-b2bbcd46baaf.png>
   <img src=https://user-images.githubusercontent.com/114788642/220455906-a23e0df0-1c36-4c6f-83c4-b59c4f2ed2cc.png>
+  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/gcp.svg>
+</div>
+</br>
+
+   ### :hammer_and_wrench: Languages :
+<div align="left">
+  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg>
+  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg>
+  
+  
 </div>
 </br>
 
 ---
+
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
