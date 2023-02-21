@@ -37,8 +37,10 @@
 <div align="left">
   <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg width="40" height="40">
   <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg width="40" height="40">
-  
-  
+  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg width="40" height="40">
+  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg width="40" height="40">
+  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg width="40" height="40">
+  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg width="40" height="40">
 </div>
 </br>
 
@@ -51,7 +53,6 @@
 
 
 <!--
-**brunoliratm/brunoliratm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![trophy](https://github-profile-trophy.vercel.app/?username=brunoliratm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 Here are some ideas to get you started:
 
