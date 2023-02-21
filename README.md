@@ -14,7 +14,12 @@
 ---
 
 ### :man_technologist: About Me :
-### I’m currently learning Rust, C and C++
+
+- :telescope: I’m a Software Engineer student contributing to Android Development and Backend Applications.
+
+- :seedling: I’m currently learning Rust, C and C++
+
+- :zap: In my free time, I do courses to expand my knowledge
 </br>
 
 ---
@@ -26,9 +31,9 @@
 </div>
 </br>
 
-<div align="center">
+---
+### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 
