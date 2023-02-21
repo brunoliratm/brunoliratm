@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=brunoliratm&style=flat-square&color=blue" alt="" align="center"/>
-<div>
+</div>
   
 </br>
 </br>
