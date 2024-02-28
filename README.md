@@ -1,5 +1,6 @@
-<div align="center">
-  <h2>Hi there, Want a coffee☕?<h2>
+<div align="center" text-align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=100&color=007BFF&center=true&vCenter=true&lines=Hi+There!+%F0%9F%91%8B%2C;Want+a+coffee☕?)](https://git.io/typing-svg) 
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" align="center"/>
@@ -30,7 +31,6 @@
   <img src=https://user-images.githubusercontent.com/114788642/220455906-a23e0df0-1c36-4c6f-83c4-b59c4f2ed2cc.png>
   <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/gcp.svg>
   <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg>
-
 </div>
 </br>
 
@@ -45,9 +45,16 @@
 </div>
 </br>
 
+   ### :desktop_computer: Operational Systems:
+<div align="left">
+   <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg width=45 height=45>
+   <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-plain.svg width=45 height=45>
+</div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&theme=dracula" alt=brunoliratm />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true&theme=dracula" alt="brunoliratm" /></p>
 
 
 
