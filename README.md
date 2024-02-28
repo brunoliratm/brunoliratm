@@ -27,10 +27,10 @@
 
    ### :hammer_and_wrench: Tools :
 <div align="left">
-  <img src=https://user-images.githubusercontent.com/114788642/220455203-84a9b48f-bcf3-4497-bc3e-b2bbcd46baaf.png>
-  <img src=https://user-images.githubusercontent.com/114788642/220455906-a23e0df0-1c36-4c6f-83c4-b59c4f2ed2cc.png>
-  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/gcp.svg>
-  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg width="45" height="45">
+  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg width="45" height="45">
+  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg width="45" height="45">
+  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg width="45" height="45">
 </div>
 </br>
 
