@@ -1,9 +1,9 @@
 <div align="center" text-align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=100&color=007BFF&center=true&vCenter=true&lines=Hi+There!+%F0%9F%91%8B%2C;Want+a+coffee☕?)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=100&color=007BFF&center=true&vCenter=true&lines=Hi+There!+%F0%9F%91%8B%2C;Want+a+coffee☕?)](https://git.io/typing-svg) 
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" align="center"/>
+  <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="600" height="230" align="center"/>
 </div>
 
   
