@@ -25,13 +25,15 @@
 ---
 
 
-   ### :hammer_and_wrench: Tools :
+   ### :toolbox: Tools :
 <div align="left">
 
   ![Static Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 </div>
 </br>
