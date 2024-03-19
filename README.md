@@ -27,29 +27,38 @@
 
    ### :hammer_and_wrench: Tools :
 <div align="left">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg width="45" height="45">
+
+  ![Static Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 </div>
 </br>
 
-   ### :hammer_and_wrench: Languages :
+   ### :hammer_and_wrench: Tecnologies :
 <div align="left">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain-wordmark.svg width="45" height="45">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-plain-wordmark.svg width="45" height="45">
+  
+  ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+  ![Static Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/bootstrap-05054B?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 </div>
 </br>
 
    ### :desktop_computer: Operational Systems:
 <div align="left">
-   <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg width=45 height=45>
-   <img src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-plain.svg width=45 height=45>
+
+  ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
 </div>
+</br>
 
 ### :fire: My Stats :
 
