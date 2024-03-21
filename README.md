@@ -17,8 +17,6 @@
 
 - :telescope: I’m a Software Engineer student contributing to Android Development and Backend Applications.
 
-- :seedling: I’m currently learning Java, C and C++
-
 - :zap: In my free time, I do courses to expand my knowledge
 </br>
 
