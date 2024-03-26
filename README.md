@@ -19,7 +19,7 @@
 
 - :zap: In my free time, I do courses to expand my knowledge
 
- <a href="https://www.linkedin.com/in/brunomagnotm/"> ![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin) </a>
+ <a href="https://www.linkedin.com/in/brunomagnotm/"> ![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)</a>
  <a href="https://t.me/BrunoMagno"> ![Static Badge](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&color=black) </a>
 
 
