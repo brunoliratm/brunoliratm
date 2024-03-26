@@ -18,6 +18,11 @@
 - :telescope: I’m a Software Engineer student contributing to Android Development and Backend Applications.
 
 - :zap: In my free time, I do courses to expand my knowledge
+
+ <a href="https://www.linkedin.com/in/brunomagnotm/"> ![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin) </a>
+ <a href="https://t.me/BrunoMagno"> ![Static Badge](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&color=black) </a>
+
+
 </br>
 
 ---
@@ -56,6 +61,7 @@
 
   ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&color=White)
 
 </div>
 </br>
