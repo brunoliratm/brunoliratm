@@ -18,12 +18,9 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m a Software Engineer student contributing to Android Development and Backend Applications.
+- I’m a Software Engineer student contributing to Android Development and Backend Applications.
 
-- :zap: In my free time, I do courses to expand my knowledge
-
-
-
+- In my free time, I do courses to expand my knowledge
 
 </br>
 
@@ -36,8 +33,13 @@
   ![Static Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  
   ![Static Badge](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 
 </div>
