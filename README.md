@@ -18,6 +18,8 @@
 
 ### :man_technologist: About Me :
 
+- 19 years, Brazil
+
 - I’m a Software Engineer student contributing to Android Development and Backend Applications.
 
 - In my free time, I do courses to expand my knowledge
@@ -49,6 +51,9 @@
   
   ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
 
   ![Static Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
