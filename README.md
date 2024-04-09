@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-- 19 years, Brazil
+- 19y, Brazil
 
 - I’m a Software Engineer student contributing to Android Development and Backend Applications.
 
