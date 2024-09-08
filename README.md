@@ -1,10 +1,12 @@
- <div align="center" text-align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=BRUNO%20MAGNO&reversal=false">
+<div align="center" text-align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=100&color=007BFF&center=true&vCenter=true&lines=Hi+There!+%F0%9F%91%8B%2C;Want+a+coffee☕?)](https://git.io/typing-svg) 
 </div>
 
 <div align="center">
-  <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="600" height="230" align="center"/>
-  <p></p>
+  <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="500" height="130" align="center"/>
+  
+ <br>
   
 
   <p align="center">
@@ -23,7 +25,7 @@
 </br>
 <div align="center">
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 </div>
 
@@ -37,11 +39,11 @@
 
 </br>
 
----
+
 
 <div align="center">
 
-   ### :toolbox: Tools :
+   ## :toolbox: Tools :
 
 [![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git,androidstudio,gcp,mysql,sublime&theme=dark&perline=5)]()
 
@@ -49,7 +51,7 @@
 </br>
 <div align="center">
 
-   ### :hammer_and_wrench: Tecnologies :
+   ## :hammer_and_wrench: Tecnologies :
   
 [![My Tecnologies](https://skillicons.dev/icons?i=python,java,c,spring,maven)](https://skillicons.dev)
 
@@ -61,7 +63,7 @@
 
 <div align="center">
 
-   ### :desktop_computer: Operational Systems:
+   ## :desktop_computer: Operational Systems:
 
   [![My Operational Systems](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
@@ -70,12 +72,14 @@
 </br>
 <div align="center">
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 </div>
 <div align-itens="center">
 <img align="left" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=donut&langs_count=8&theme=dracula" alt=brunoliratm />
 <p>&nbsp;<img align="center" height="230em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" alt="brunoliratm" /></p>
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer">
