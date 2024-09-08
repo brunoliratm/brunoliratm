@@ -5,8 +5,7 @@
 
 <div align="center">
   <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="500" height="130" align="center"/>
-  
- <br>
+ <p></p>
   
 
   <p align="center">
