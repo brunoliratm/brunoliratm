@@ -43,7 +43,7 @@
 
    ### :toolbox: Tools :
 
-[![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git,androidstudio,gcp,mysql,sublime&theme=dark)]()
+[![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git,androidstudio,gcp,mysql,sublime&theme=dark&perline=5)]()
 
 </div>
 </br>
