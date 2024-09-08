@@ -75,7 +75,7 @@
 </div>
 <div align-itens="center">
 <img align="left" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=donut&langs_count=8&theme=dracula" alt=brunoliratm />
-<p>&nbsp;<img align="right" height="230em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" alt="brunoliratm" /></p>
+<p>&nbsp;<img align="center" height="230em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" alt="brunoliratm" /></p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer">
