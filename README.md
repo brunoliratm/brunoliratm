@@ -1,22 +1,31 @@
-<div align="center" text-align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=100&color=007BFF&center=true&vCenter=true&lines=Hi+There!+%F0%9F%91%8B%2C;Want+a+coffee☕?)](https://git.io/typing-svg) 
+ <div align="center" text-align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=BRUNO%20MAGNO&reversal=false">
 </div>
+
 <div align="center">
   <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="600" height="230" align="center"/>
   <p></p>
   
-  <a href="https://www.linkedin.com/in/brunomagnotm/"> ![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)</a>
-  <a href="https://t.me/BrunoMagno"> ![Static Badge](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&color=black)</a>
-  <a href="https://xdaforums.com/m/brunoliratm.9987656/#recent-content"> ![Static Badge](https://img.shields.io/badge/xdadevelopers-EA7100?style=for-the-badge&logo=xdadevelopers&logoColor=white&color=orange) </a>
+
+  <p align="center">
+  <a href="https://t.me/BrunoMagno"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/dougkalash"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.com/users/153490292081819648"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brunomagnotm/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://xdaforums.com/m/brunoliratm.9987656/#recent-content"><img src="https://img.shields.io/badge/xdadevelopers-0d1117?style=for-the-badge&logo=xdadevelopers&logoColor=white" /></a>
+</p>
+
 </div>
 
 </br>
 
 ---
 </br>
+<div align="center">
 
 ### :man_technologist: About Me :
+
+</div>
 
 - 19y, Brazil
 
@@ -24,60 +33,49 @@
 
 - In my free time, I do courses to expand my knowledge
 
+- university development team: [Exploit Experts](https://github.com/Exploit-Experts)
+
 </br>
 
 ---
 
+<div align="center">
 
    ### :toolbox: Tools :
-<div align="left">
 
-  ![Static Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
+[![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git,androidstudio,gcp,mysql,sublime&theme=dark)]()
 
 </div>
 </br>
+<div align="center">
 
    ### :hammer_and_wrench: Tecnologies :
-<div align="left">
   
-  ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+[![My Tecnologies](https://skillicons.dev/icons?i=python,java,c,spring,maven)](https://skillicons.dev)
 
-
-  ![Static Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/bootstrap-05054B?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![My Tecnologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass)](https://skillicons.dev)
 
 </div>
+
 </br>
+
+<div align="center">
 
    ### :desktop_computer: Operational Systems:
-<div align="left">
 
-  ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&color=White)
+  [![My Operational Systems](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+
 
 </div>
 </br>
+<div align="center">
 
 ### :fire: My Stats :
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&theme=dracula" alt=brunoliratm />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true&theme=dracula" alt="brunoliratm" /></p>
+</div>
+<div align-itens="center">
+<img align="left" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=donut&langs_count=8&theme=dracula" alt=brunoliratm />
+<p>&nbsp;<img align="right" height="230em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" alt="brunoliratm" /></p>
+</div>
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer">
