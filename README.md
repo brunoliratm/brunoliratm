@@ -45,7 +45,7 @@
 
    ## :toolbox: Tools :
 
-[![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git,androidstudio,gcp,mysql,sublime,postman&theme=dark&perline=5)]()
+[![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git,androidstudio,gcp,postman&theme=dark&perline=5)]()
 
 </div>
 </br>
@@ -55,7 +55,7 @@
   
 [![My Tecnologies](https://skillicons.dev/icons?i=python,java,c,spring,maven)](https://skillicons.dev)
 
-[![My Tecnologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass)](https://skillicons.dev)
+[![My Tecnologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,mysql)](https://skillicons.dev)
 
 </div>
 
