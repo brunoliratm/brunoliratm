@@ -9,7 +9,6 @@
   
 
   <p align="center">
-  <a href="https://t.me/BrunoMagno"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/brunoliratm"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.com/users/1075127178171269211"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/brunomagnotm/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
