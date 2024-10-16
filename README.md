@@ -52,7 +52,7 @@
 
    ## :hammer_and_wrench: Tecnologies :
   
-[![My Tecnologies](https://skillicons.dev/icons?i=python,java,c,spring,maven)](https://skillicons.dev)
+[![My Tecnologies](https://skillicons.dev/icons?i=python,java,c,spring,maven,angular,ts)](https://skillicons.dev)
 
 [![My Tecnologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,mysql)](https://skillicons.dev)
 
