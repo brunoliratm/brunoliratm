@@ -1,12 +1,14 @@
-<div align="center" text-align="center">
-  
+<!--- <div align="center" text-align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=100&color=007BFF&center=true&vCenter=true&lines=Hi+There!+%F0%9F%91%8B%2C;Want+a+coffee☕?)](https://git.io/typing-svg) 
 </div>
 
 <div align="center">
   <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="500" height="130" align="center"/>
- <p></p>
-  
+ <p></p> --->
+ 
+<div align="center" text-align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Bruno%20Magno&reversal=false">
+</div> 
 
   <p align="center">
   <a href="https://github.com/brunoliratm"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -54,7 +56,7 @@
   
 [![My Tecnologies](https://skillicons.dev/icons?i=python,java,c,spring,maven,angular,ts)](https://skillicons.dev)
 
-[![My Tecnologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,mysql)](https://skillicons.dev)
+[![My Tecnologies](https://skillicons.dev/icons?i=markdown,html,css,js,bootstrap,sass,mysql)](https://skillicons.dev)
 
 </div>
 
