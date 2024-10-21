@@ -31,13 +31,13 @@
 
 </div>
 
-- 19y, Brazil
+- :space_invader: 20y, Pernambuco,Brazil
 
-- I’m a Software Engineer student contributing to Android Development and Backend Applications.
+- :student: I’m a Software Engineer student contributing to Android Development and Backend Applications.
 
-- In my free time, I do courses to expand my knowledge
+- :hourglass: In my free time, I do courses to expand my knowledge
 
-- university development team: [Exploit Experts](https://github.com/Exploit-Experts)
+- :cat: [university development team](https://github.com/Exploit-Experts)
 
 </br>
 
