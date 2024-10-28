@@ -19,16 +19,15 @@
   <a href="https://brunoliratm.github.io/portfolio-brunomagno/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
   </p>
-
 </div>
-
-</br>
+<br>
 
 ---
-</br>
+
+<br>
 <div align="center">
 
-## :man_technologist: About Me :
+## :man_technologist: ABOUT ME
 
 </div>
 
@@ -56,40 +55,34 @@ public static void main(String[] args) {
 
 ```
 
-</br>
-
-
+<br>
 
 <div align="center">
 
-   ## :toolbox: Tools & Environments:
+   ## :toolbox: TOOLS & ENVIROMENTS
 
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,windows,vscode,idea,figma,github,git&theme=dark" alt="Tools & Environments" /><br>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=androidstudio,gcp,insomnia,postman,npm,nodejs&theme=dark" />
 
 </div>
-</br>
+<br>
 <div align="center">
 
-   ## :hammer_and_wrench: Tecnologies :
+   ## :hammer_and_wrench: TECNOLOGIES
 
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,java,c,spring,maven,angular&theme=dark" /><br>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,markdown,html,css,javascript,bootstrap&theme=dark" /><br>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=sass,mysql&theme=dark" />
-
 </div>
 
-</br>
+<br>
 
 <div align="center">
 
-<details>
-    <summary><h2> :fire: My Stats :</h2></summary>
-    <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=brunoliratm&hide_border=true&theme=transparent" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
-    </figure>
-</details>
+## :fire: MY STATS</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoliratm&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
 
 <br>
 
