@@ -6,6 +6,7 @@
   <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="500" height="130" align="center"/>
  <p></p> --->
  
+ 
 <div align="center" text-align="center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Bruno%20Magno&reversal=false">
 </div> 
@@ -31,13 +32,29 @@
 
 </div>
 
-- :space_invader: 20y, Pernambuco,Brazil
+```java
+public class BrunoMagno {
+    private String name = "Bruno Magno";
+    private int age = 20;
+    private String location = "Pernambuco, Brazil";
+    private List<String> interests = Arrays.asList("Web Development", "Android Development", "Backend Applications");
 
-- :student: I’m a Software Engineer student contributing to Android Development and Backend Applications.
+    public BrunoMagno() {}
 
-- :hourglass: In my free time, I do courses to expand my knowledge
+    public void describe() {
+        System.out.println("👋 Hi there! I'm " + name + ".");
+        System.out.println("🎂 I'm " + age + " years old and currently living in " + location + ".");
+        System.out.println("💻 I’m a Software Developer passionate about " + String.join(", ", interests) + ".");
+        System.out.println("📚 In my free time, I take courses to expand my knowledge and skills.");
+    }
+}
 
-- :cat: [university development team](https://github.com/Exploit-Experts)
+public static void main(String[] args) {
+    BrunoMagno bruno = new BrunoMagno();
+    bruno.describe();
+}
+
+```
 
 </br>
 
@@ -45,19 +62,20 @@
 
 <div align="center">
 
-   ## :toolbox: Tools :
+   ## :toolbox: Tools & Environments:
 
-[![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git,androidstudio,gcp,postman,npm,nodejs&theme=dark&perline=5)]()
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,windows,vscode,idea,figma,github,git&theme=dark" alt="Tools & Environments" /><br>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=androidstudio,gcp,insomnia,postman,npm,nodejs&theme=dark" />
 
 </div>
 </br>
 <div align="center">
 
    ## :hammer_and_wrench: Tecnologies :
-  
-[![My Tecnologies](https://skillicons.dev/icons?i=python,java,c,spring,maven,angular,ts)](https://skillicons.dev)
 
-[![My Tecnologies](https://skillicons.dev/icons?i=markdown,html,css,js,bootstrap,sass,mysql)](https://skillicons.dev)
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,java,c,spring,maven,angular&theme=dark" /><br>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,markdown,html,css,javascript,bootstrap&theme=dark" /><br>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=sass,mysql&theme=dark" />
 
 </div>
 
@@ -65,23 +83,13 @@
 
 <div align="center">
 
-   ## :desktop_computer: Operational Systems:
-
-  [![My Operational Systems](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
-
-
-</div>
-</br>
-<div align="center">
-
-## :fire: My Stats :
-
-</div>
-<div align-itens="center">
-<img align="left" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=donut&langs_count=8&theme=dracula" alt=brunoliratm />
-  
-<p>&nbsp;<img align="center" height="230em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" alt="brunoliratm" /></p>
-</div>
+<details>
+    <summary><h2> :fire: My Stats :</h2></summary>
+    <figure>
+        <img src="https://github-readme-stats.vercel.app/api?username=brunoliratm&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
+    </figure>
+</details>
 
 <br>
 
