@@ -72,7 +72,7 @@ public static void main(String[] args) {
 
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,java,c,spring,maven,angular&theme=dark" /><br>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,markdown,html,css,javascript,bootstrap&theme=dark" /><br>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=sass,mysql&theme=dark" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=sass,react,mysql&theme=dark" />
 </div>
 
 <br>
