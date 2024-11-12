@@ -62,7 +62,7 @@ public static void main(String[] args) {
    ## :toolbox: TOOLS & ENVIROMENTS
 
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,windows,vscode,idea,figma,github,git&theme=dark" alt="Tools & Environments" /><br>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=androidstudio,gcp,insomnia,postman,npm,nodejs&theme=dark" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=androidstudio,gcp,insomnia,postman,npm,nodejs,jira&theme=dark" />
 
 </div>
 <br>
