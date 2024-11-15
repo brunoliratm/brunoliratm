@@ -61,8 +61,8 @@ public static void main(String[] args) {
 
    ## :toolbox: TOOLS & ENVIROMENTS
 
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,windows,vscode,idea,figma,github,git&theme=dark" alt="Tools & Environments" /><br>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=androidstudio,gcp,insomnia,postman,npm,nodejs,jira&theme=dark" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,idea,figma,github,git&theme=dark" alt="Tools & Environments" /><br>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=gcp,postman,npm,nodejs,jira&theme=dark" />
 
 </div>
 <br>
@@ -70,8 +70,8 @@ public static void main(String[] args) {
 
    ## :hammer_and_wrench: TECNOLOGIES
 
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,java,spring&theme=dark" /><br>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,typescript,javascript,angular&theme=dark" /><br>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,java,spring,typescript&theme=dark" /><br>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,angular&theme=dark" /><br>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=sass,markdown,mysql&theme=dark" />
 </div>
 
