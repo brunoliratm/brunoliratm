@@ -47,19 +47,19 @@ Feel free to connect with me and explore what I'm working on! 🚀
 
 <div align="center">
   
-## 🏆 Certificações e Cursos
+## 🏆 Certifications and Courses
 
 </div>
 
-- **Developing Your Emotional Intelligence** – [Linkedin](https://www.linkedin.com/learning/certificates/b33c75ec6a40e24abe2c2a8bb8d52c4c6729de77be826d1d5503a53ed94c4195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BIvnelH8OSXO9f4ugve%2Fbbg%3D%3D)  
-- **Docker Foundations Professional Certificate** – [Docker Inc](https://www.linkedin.com/learning/certificates/193fecd99ef5b7d2780568167a0be5b832338623e1af9ad07a1e0f99f2e43640?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By6uc1hAcT%2FiZJJHzfmbbgw%3D%3D)  
-- **Python** – [FIAP](https://drive.google.com/file/d/1YS25eQunTiaI9GL8PQ55m_LJReq4jSBn/view?usp=sharing)  
-- **Web Development** – [Udemy](https://www.udemy.com/certificate/UC-2823200d-80cf-4fc4-95d1-d3272cee2cc7/)
-- **Computer Network Fundamentals** – [Udemy](https://www.udemy.com/certificate/UC-0dbb7b7b-96f5-4425-95e5-4a65ffa83a3e/)
-- **Introduction to cybersecurity** – [Cisco Networking Academy](https://drive.google.com/file/d/1pKrOBztkqhl51ZybQtLdkiZ4h0qF5YKQ/view?usp=sharing)  
-- **Linux Fundamentals** – [FIAP](https://drive.google.com/file/d/13F0BSb8dc5EM8xlBl1JO61gGaXGCvXqf/view?usp=share_link)
-- **User Experience** – [FIAP](https://drive.google.com/file/d/1khhSLzmhqAQxW3b6kToKWLVeVSIe3sce/view?usp=share_link)
-- **Design Thinking** - [FIAP](https://drive.google.com/file/d/1heY865E4bJqRrW4r07ix08NdvVWnGVPa/view?usp=share_link)
+- 🧠 **Developing Your Emotional Intelligence** – [Linkedin](https://www.linkedin.com/learning/certificates/b33c75ec6a40e24abe2c2a8bb8d52c4c6729de77be826d1d5503a53ed94c4195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BIvnelH8OSXO9f4ugve%2Fbbg%3D%3D)  
+- 🐳 **Docker Foundations Professional Certificate** – [Docker Inc](https://www.linkedin.com/learning/certificates/193fecd99ef5b7d2780568167a0be5b832338623e1af9ad07a1e0f99f2e43640?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By6uc1hAcT%2FiZJJHzfmbbgw%3D%3D)  
+- 🐍 **Python** – [FIAP](https://drive.google.com/file/d/1YS25eQunTiaI9GL8PQ55m_LJReq4jSBn/view?usp=sharing)  
+- 🌐 **Web Development** – [Udemy](https://www.udemy.com/certificate/UC-2823200d-80cf-4fc4-95d1-d3272cee2cc7/)
+- 🌐 **Computer Network Fundamentals** – [Udemy](https://www.udemy.com/certificate/UC-0dbb7b7b-96f5-4425-95e5-4a65ffa83a3e/)
+- 🔒 **Introduction to cybersecurity** – [Cisco Networking Academy](https://drive.google.com/file/d/1pKrOBztkqhl51ZybQtLdkiZ4h0qF5YKQ/view?usp=sharing)  
+- 🐧 **Linux Fundamentals** – [FIAP](https://drive.google.com/file/d/13F0BSb8dc5EM8xlBl1JO61gGaXGCvXqf/view?usp=share_link)
+- 🎨 **User Experience** – [FIAP](https://drive.google.com/file/d/1khhSLzmhqAQxW3b6kToKWLVeVSIe3sce/view?usp=share_link)
+- 💡 **Design Thinking** - [FIAP](https://drive.google.com/file/d/1heY865E4bJqRrW4r07ix08NdvVWnGVPa/view?usp=share_link)
   
 <br>
 
