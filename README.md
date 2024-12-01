@@ -29,11 +29,11 @@
 
 </div>
 
-👋 **Hello!** My name is **Bruno Magno**, and I'm a passionate Full-Stack Developer.  
-🎂 I live in **Pernambuco, Brazil**, constantly learning and growing in the tech world.  
-🎓 Pursuing a Bachelor's degree in Information Systems (UNIFACOL, 2023-2026)
-📚 When I'm not coding, I invest my time in courses and projects to enhance my skills and stay ahead in the ever-evolving tech landscape.  
-🌟 I'm always excited to take on new challenges and collaborate with others in creating impactful solutions.  
+👋 **Hello!** My name is **Bruno Magno**, and I'm a passionate Full-Stack Developer.<br>
+🎂 I live in **Pernambuco, Brazil**, constantly learning and growing in the tech world.<br>
+🎓 Pursuing a Bachelor's degree in Information Systems.<br>
+📚 When I'm not coding, I invest my time in courses and projects to enhance my skills and stay ahead in the ever-evolving tech landscape.<br>
+🌟 I'm always excited to take on new challenges and collaborate with others in creating impactful solutions.
 
 <br>
 
