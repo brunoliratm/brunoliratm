@@ -53,7 +53,7 @@
 - 🎨 **User Experience** – [FIAP](https://drive.google.com/file/d/1khhSLzmhqAQxW3b6kToKWLVeVSIe3sce/view?usp=share_link)
 - 💡 **Design Thinking** - [FIAP](https://drive.google.com/file/d/1heY865E4bJqRrW4r07ix08NdvVWnGVPa/view?usp=share_link)
   
-<a href="https://www.linkedin.com/in/brunomagnotm/"><img src="https://img.shields.io/badge/To%20See%20More%20Certifications-Click%20Here-blue?style=for-the-badge"/></a>
+- <a href="https://www.linkedin.com/in/brunomagnotm/"><img src="https://img.shields.io/badge/To%20See%20More%20Certifications-Click%20Here-blue?style=flat"/></a>
   
 <br>
 
