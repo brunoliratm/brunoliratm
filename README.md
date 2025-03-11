@@ -1,12 +1,3 @@
-<!--- <div align="center" text-align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=100&color=007BFF&center=true&vCenter=true&lines=Hi+There!+%F0%9F%91%8B%2C;Want+a+coffee☕?)](https://git.io/typing-svg) 
-</div>
-
-<div align="center">
-  <img src="https://tokenizedhq.com/wp-content/uploads/2022/08/4-aesthetic-anime-discord-banner-gif-eye-closeup.gif" width="500" height="130" align="center"/>
- <p></p> --->
- 
- 
 <div align="center" text-align="center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Bruno%20Magno&reversal=false">
 </div> 
@@ -29,32 +20,13 @@
 
 </div>
 
-👋 **Hello!** My name is **Bruno Magno**, and I'm a passionate Full-Stack Developer.<br>
+👋 **Hello!** My name is **Bruno Magno**, and I'm a passionate Software Developer.<br>
 🎂 I live in **Pernambuco, Brazil**, constantly learning and growing in the tech world.<br>
 🎓 Pursuing a Bachelor's degree in Information Systems.<br>
-📚 When I'm not coding, I invest my time in courses and projects to enhance my skills and stay ahead in the ever-evolving tech landscape.<br>
-🌟 I'm always excited to take on new challenges and collaborate with others in creating impactful solutions.
+🌟 I'm always excited to take on new challenges and collaborate with others.
 
 <br>
 
-<div align="center">
-  
-## 🏆 Certifications and Courses
-
-</div>
-
-- 🧠 **Developing Your Emotional Intelligence** – [Linkedin](https://www.linkedin.com/learning/certificates/b33c75ec6a40e24abe2c2a8bb8d52c4c6729de77be826d1d5503a53ed94c4195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BIvnelH8OSXO9f4ugve%2Fbbg%3D%3D)  
-- 🐳 **Docker Foundations Professional Certificate** – [Docker Inc](https://www.linkedin.com/learning/certificates/193fecd99ef5b7d2780568167a0be5b832338623e1af9ad07a1e0f99f2e43640?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By6uc1hAcT%2FiZJJHzfmbbgw%3D%3D)  
-- 🐍 **Python** – [FIAP](https://drive.google.com/file/d/1YS25eQunTiaI9GL8PQ55m_LJReq4jSBn/view?usp=sharing)  
-- 🌐 **Web Development** – [Udemy](https://www.udemy.com/certificate/UC-2823200d-80cf-4fc4-95d1-d3272cee2cc7/)
-- 🌐 **Computer Network Fundamentals** – [Udemy](https://www.udemy.com/certificate/UC-0dbb7b7b-96f5-4425-95e5-4a65ffa83a3e/)
-- 🔒 **Introduction to cybersecurity** – [Cisco Networking Academy](https://drive.google.com/file/d/1pKrOBztkqhl51ZybQtLdkiZ4h0qF5YKQ/view?usp=sharing)  
-- 🐧 **Linux Fundamentals** – [FIAP](https://drive.google.com/file/d/13F0BSb8dc5EM8xlBl1JO61gGaXGCvXqf/view?usp=share_link)
-- 🎨 **User Experience** – [FIAP](https://drive.google.com/file/d/1khhSLzmhqAQxW3b6kToKWLVeVSIe3sce/view?usp=share_link)
-- 💡 **Design Thinking** - [FIAP](https://drive.google.com/file/d/1heY865E4bJqRrW4r07ix08NdvVWnGVPa/view?usp=share_link)
-  
-- <a href="https://www.linkedin.com/in/brunomagnotm/"><img src="https://img.shields.io/badge/To%20See%20More%20Certifications-Click%20Here-blue?style=flat"/></a>
-  
 <br>
 
 <div align="center">
@@ -82,7 +54,6 @@
 ## :fire: MY STATS</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=brunoliratm&hide_border=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
 
 <br>
 
