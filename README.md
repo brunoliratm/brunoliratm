@@ -1,62 +1,85 @@
-<div align="center" text-align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Bruno%20Magno&reversal=false">
-</div> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Bruno%20Magno&fontSize=45&fontAlign=50&fontColor=ffffff" alt="Bruno Magno"/>
+</div>
 
 <p align="center">
-  <a href="https://github.com/brunoliratm"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://discord.com/users/1075127178171269211"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/brunomagnotm/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=lintcode&logoColor=white" /></a>
-  <a href="https://xdaforums.com/m/brunoliratm.9987656/#recent-content"><img src="https://img.shields.io/badge/xdadevelopers-0d1117?style=for-the-badge&logo=xdadevelopers&logoColor=white" /></a>
-  <a href="https://brunoliratm.github.io/portfolio-brunomagno/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/brunoliratm"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brunomagnotm/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=lintcode&logoColor=white" /></a>
+  <a href="https://brunoliratm.github.io/portfolio-brunomagno/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://xdaforums.com/m/brunoliratm.9987656/#recent-content"><img src="https://img.shields.io/badge/XDA-0D1117?style=for-the-badge&logo=xdadevelopers&logoColor=white" /></a>
+  <a href="./public/BrunoMagno-Curriculo.pdf"><img src="https://img.shields.io/badge/Curriculum-0D1117?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+</p>
 
-  </p>
-</div>
-<br>
-
-<br>
+</br>
 <div align="center">
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 </div>
 
-👋 **Hello!** My name is **Bruno Magno**, and I'm a passionate Software Developer.<br>
-🎂 I live in **Pernambuco, Brazil**, constantly learning and growing in the tech world.<br>
-🎓 Pursuing a Bachelor's degree in Information Systems.<br>
-🌟 I'm always excited to take on new challenges and collaborate with others.
+**Software Developer dedicated to building solutions that actually work.**
+Information Systems student and back-end enthusiast with Java, plus front-end experience with Angular.
 
-<br>
+- 🎯 **Seeking:** to apply software engineering with real purpose
+- 🧪 **Exploring:** hexagonal architecture & secure authentication
+- 🛠️ **Favorite stack:** `Spring Boot`, `Angular`, `PostgreSQL`, `JWT`, `Docker`
+- 💬 Always ready to learn, collaborate, and grow
 
-<br>
-
+</br>
 <div align="center">
 
-## :toolbox: TOOLS & ENVIROMENTS
-
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,idea,figma,github,git,docker&theme=dark" alt="Tools & Environments" /><br>
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=gcp,postman,npm,nodejs,jira&theme=dark" />
+## 📚 Certifications
 </div>
 
-<br>
+- 🐳 **Docker Foundations** – Docker Inc.
+- 🐧 **Ubuntu Linux Professional** – Canonical
+- 🌐 **Java Foundations Professional** – JetBrains
+- 🛡️ **Introduction to Cybersecurity** – Cisco Networking Academy
+- 🧮 **SQL para Análise de Dados** – Udemy
+- 🎨 **User Experience** – FIAP
 
+</br>
 <div align="center">
 
-## :hammer_and_wrench: TECNOLOGIES
-
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=python,java,spring,typescript,c,mysql&theme=dark" /><br>
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,angular,sass&theme=dark" /><br>
+## 📌 Featured Projects
 </div>
 
-<br>
+### 🔹 [Ludus GameStore](https://github.com/brunoliratm/Ludus-GameStore-API)
+RESTful API for gaming e-commerce, with JWT authentication, relational database, and modular architecture focused on security and scalability. </br>
+🧱 `Spring Boot`, `JWT`, `PostgreSQL`, `Docker`
+
+### 🔹 [Archivum Libris](https://github.com/brunoliratm/ArchivumLibris-API)
+Book management system based on **hexagonal architecture** principles and domain-oriented design.</br>
+🚧 *In development*</br>
+🧱 `Spring Boot`, `Flyway`, `Swagger`, `DDD`
+
+</br>
+<div align="center">
+
+## 🔧 Technologies & Tools
+
+### 👨‍🔧 Back-End
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=java,spring,nodejs,postgresql,mysql&theme=dark" />
+
+### 🧑‍🎨 Front-End
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,angular,sass,typescript,javascript&theme=dark" />
+
+### 🔩 DevOps & Others
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=git,docker,jira,figma,vscode,idea,ubuntu&theme=dark" />
+</div>
+
+</br>
 
 <div align="center">
 
-## :fire: MY STATS</h2>
+## 📈 GitHub Stats
+</div>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=svg,c" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=brunoliratm&hide_border=true&theme=transparent" />
+</div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer">
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </div>
