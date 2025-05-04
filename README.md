@@ -56,7 +56,7 @@ Book management system based on **hexagonal architecture** principles and domain
 </br>
 <div align="center">
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
 ### 👨‍🔧 Back-End
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=java,spring,nodejs,postgresql,mysql&theme=dark" />
@@ -64,7 +64,7 @@ Book management system based on **hexagonal architecture** principles and domain
 ### 🧑‍🎨 Front-End
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,angular,sass,typescript,javascript&theme=dark" />
 
-### 🔩 DevOps & Others
+### 🔩 Tools & Others
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=git,docker,jira,figma,vscode,idea,ubuntu&theme=dark" />
 </div>
 
