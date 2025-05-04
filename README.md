@@ -39,21 +39,7 @@ Information Systems student and back-end enthusiast with Java, plus front-end ex
 - 🎨 **User Experience** – FIAP
 
 </br>
-<div align="center">
 
-## 📌 Featured Projects
-</div>
-
-### 🔹 [Ludus GameStore](https://github.com/brunoliratm/Ludus-GameStore-API)
-RESTful API for gaming e-commerce, with JWT authentication, relational database, and modular architecture focused on security and scalability. </br>
-🧱 `Spring Boot`, `JWT`, `PostgreSQL`, `Docker`
-
-### 🔹 [Archivum Libris](https://github.com/brunoliratm/ArchivumLibris-API)
-Book management system based on **hexagonal architecture** principles and domain-oriented design.</br>
-🚧 *In development*</br>
-🧱 `Spring Boot`, `Flyway`, `Swagger`, `DDD`
-
-</br>
 <div align="center">
 
 ## 🔧 Technologies
