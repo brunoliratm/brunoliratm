@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Bruno%20Magno&fontSize=45&fontAlign=50&fontColor=ffffff" alt="Bruno Magno"/>
+  <img src="./public/name.svg" width="100%" alt="Bruno Magno"/>
 </div>
 
 <p align="center">
