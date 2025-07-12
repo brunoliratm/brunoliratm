@@ -36,7 +36,9 @@ Information Systems student and back-end enthusiast with Java, plus front-end ex
 - 🌐 **Java Foundations Professional** – JetBrains
 - 🛡️ **Introduction to Cybersecurity** – Cisco Networking Academy
 - 🧮 **SQL para Análise de Dados** – Udemy
-- 🎨 **User Experience** – FIAP
+- 🎨 **User Experience** – FIAP</br>
+
+<a href="https://www.linkedin.com/in/brunomagnotm/details/certifications/"><img src="https://img.shields.io/badge/More%20certifications-0D1117?style=for-the-badge&logoColor=blue" /></a>
 
 </br>
 
@@ -61,7 +63,7 @@ Information Systems student and back-end enthusiast with Java, plus front-end ex
 ## 📈 GitHub Stats
 </div>
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoliratm&show_icons=true&count_private=false&hide_border=true&theme=transparent" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliratm&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=svg,c" />
 
 </div>
