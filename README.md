@@ -1,6 +1,6 @@
 <div align="center">
+<img src="./public/name.svg" width="100%" alt="Bruno Magno"/>
   
-  # Bruno Magno
 **Software Engineer | Information Systems Student at UNIFACOL**
   
 <p align="center">
